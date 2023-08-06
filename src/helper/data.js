@@ -72,3 +72,8 @@ export const data = [
     img: "./img/2005.jpg",
   },
 ];
+
+
+
+
+

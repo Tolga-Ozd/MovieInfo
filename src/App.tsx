@@ -1,13 +1,13 @@
-import Home from "./componets/Home"
 
+import Home from "./components/Home" 
+import "./App.css"
 
 function App() {
 
-
   return (
     <div className="d-flex justify-content-center align-items-center vh-100" >
-      <Home/>
-
+     <Home />
+     
     </div>
   )
 }
